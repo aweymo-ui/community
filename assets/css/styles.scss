@@ -21,6 +21,13 @@ body {
   background-color: #F0F8FF;
 }
 
+.quote {
+  font-size: 1.2rem; /* Larger font size than body text */
+  font-style: italic; /* Italicize the text */
+  margin-left: 20px; /* Indent to the right */
+}
+
+
 // set color for footer nav buttons (optional!)
 $nav-pills: #005bc5;
 
