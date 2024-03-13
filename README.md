@@ -1,2 +1,2 @@
-## Humanizing Nature Research History with Static Web Technology
-Presentation for UCLA Library's Captivity: Assembling Nature’s Histories, March 2024
+## Collaborating with Community Archives to increase Access to At-Risk Collections 
+This presentation, created for the 2024 Northwest Archivist conference, details my experience collaborating with the Filipino American National Historical Society to create an article on the Alaskero migratory laborers, and explores being mindful of bias when engaging with community heritage spaces that don't look or function like formal archives.
