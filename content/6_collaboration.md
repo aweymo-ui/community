@@ -9,9 +9,9 @@ nav: Collaboration
 
 Another thing I would recommend as a cultural outsider collaborating with community archives is to **emphasize what you can provide to them in exchange for access to these materials**. In this case, the return was around 200 digital images of this scrapbook (that they could possibly implement as user copies, if they chose to, thereby mitigating future deterioration of the scrapbook) and a widely released article that attributes them by name and highlights their dedication to preserving cultural history. This will hopefully demonstrate continued service to the community and help them garner financial support, in turn, easing day to day operations. 
 
-## No Unsolicited Advice
+## Unsolicited Advice
 
-While I was surprised that patrons could take items away from the archive, I didn’t vocalize it and I didn’t make any unsolicited suggestions. I’ve been on this earth as long as the archive has been operational and a White person providing unrequested advice on another community’s practices could feel condescending on many levels and could convey a message to the community archivist that the outsider might not be intending. If they would like my advice, I will let them ask me.
+While I was surprised that patrons could take items away from the archive, **I didn’t vocalize it and I didn’t make any unsolicited suggestions**. I’ve been on this earth as long as the archive has been operational and a White person providing unrequested advice on another community’s practices could feel condescending on many levels and could convey a message to the community archivist that the outsider might not be intending. If they would like my advice, I will let them ask me.
 
 ## Advantages of Community Archives
 
@@ -19,6 +19,6 @@ While I was surprised that patrons could take items away from the archive, I did
 
 ## Conclusion
 
-The experience was an excellent primer on being mindful of your own bias as a librarian before entering a community archive space. Things will look and function differently than what you are used to and it isn’t necessarily right or wrong, they simply are. We can tut at the missing images in the scrapbook, but the fact that it has been preserved at all is due completely to forty years of underfunded commitment on the part of the Filipino American National Historic Society and community archives like it. 
+**The experience was an excellent primer on being mindful of your own bias as a librarian before entering a community archive space**. Things will look and function differently than what you are used to and it isn’t necessarily right or wrong, they simply are. We can tut at the missing images in the scrapbook, but the fact that it has been preserved at all is due completely to forty years of underfunded commitment on the part of the Filipino American National Historic Society and community archives like it. 
 
 Thank you for your time. 
