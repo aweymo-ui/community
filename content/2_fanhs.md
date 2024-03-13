@@ -20,10 +20,12 @@ When I visited, the archive was in the process of moving from an upper floor int
 
 -------------
 
-## Space and Process
+## Space, Process and Style
 
-Walking down a flight of stairs, the reception room contained a small desk, an older computer and multiple bookcases packed with reference materials and archival holdings side by side. This leads to a small reading room and a larger room down the hall containing personal collections donated to the society, kept in cardboard boxes and organized by the name.
+Walking down a flight of stairs, the reception room contained a small desk, an older computer and multiple bookcases packed with reference materials and archival holdings side by side. This leads to a small reading room and a larger room down the hall containing personal collections donated to the society, kept in cardboard boxes and organized by the name. 
 
-**There is no digital or publicly available catalog of the items in the archive**, just general sections for the different areas; scrapbooks here, personal collections here, periodicals there, etc. Adding to this contrast, Dorothy and her son Damian didn’t “act like archivists,” either, as they casually shouted at each other between rooms about where certain things were, in a way that only family members can do.
+There is no digital or publicly available catalog of the items in the archive, instead, there are general sections for the different areas; scrapbooks here, personal collections here, but all other points of reference come directly from the Cordovas. 
+
+Adding to this contrast, Dorothy and her son Damian didn’t “act like archivists,” either, as they casually shouted at each other between rooms about where certain things were, in a way that only family members can do. These behavioral aspects of what an archive space should or shouldn't sound like are particularly prone to bias because these standards have little to do with "best practice" and wade into more noxious, euro-centric concepts of the library as a controlled space.
 
 
