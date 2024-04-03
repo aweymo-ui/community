@@ -7,6 +7,8 @@ nav: Intro
 
 -------------
 
+{% include figure.html img="17.envelope_04.jpeg" alt="Black and white photo of a person looking out onto the ocean wearing swim trunks and sitting on a large rock." caption="Person, possibly Salvador Caballero, sitting on rocky shoreline near Karluk, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." %}
+
 ## Alaskeros
 
 **In the summer of 2023**, I was given the opportunity to write an article for an organization named [Maritime Washington](https://maritimewa.org/who-we-are/) on Filipino migratory laborers who travel between mainland America and the salmon canneries of Alaska, known as _Alaskeros_. Maritime Washington is facilitated by the Washington Trust for Historic Preservation and committed to:

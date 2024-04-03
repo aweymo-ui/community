@@ -7,5 +7,7 @@ nav: Approach
 
 -------------
 
+{% include figure.html img="Immaculate Church-1.jpg" alt="Photo of a red brick church with two steeples on either side, which reads 1891 -- Immaculate Church -- 1904 above four doorways at the entrance." caption="The Immaculate Conception Church, where FAHNS currently operates out of the basement, courtesy People of the Central Area & their Stories blog." width= "50%" %}
+
 **In retrospect, this was the first major rift where my training as an archivist and librarian butted against the everyday realities of community archiving**. How could any institution let such important materials leave their archive? The answer is straightforward: because that was also how items came in. Being completely family and volunteer run, the organization didn’t have the hours, budget or training to implement a formal accessioning process for materials, they may not have had the means to afford a copy machine and the age range of their researchers meant they might not have access to phones or email to share digital copies of the documents they wanted. Additionally, demonstrating this amount of trust with researchers is an act of good faith that connects the archive to their community and likely makes people more comfortable donating their own materials to the institution in the future.
 

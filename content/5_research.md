@@ -7,6 +7,8 @@ nav: Research
 
 -------------
 
+{% include figure.html img="2.png" alt="A Google Earth rendering and archival photo showing the same geological features side by side." caption="Google Earth rendering of geological features beside one of the archival photos on Karluk, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." width= "100%" %}
+
 ## Geolocation
 
 **Because the Larsen Bay Cannery documented in Caballero’s photographs is no longer standing and the majority of the photos were unlabeled**, Kodiak Island’s physical space was difficult for me to comprehend as a researcher. To these ends, I utilized Google Earth for geolocation. Surveying between the two geographic data points I had in Alaska, Larsen Bay and Karluck, a census designated area on the west side of the island, I was able to identify distinctive land features. This not only helped me fill in these metadata gaps but also provided context for the overall writing, helping me understand the dynamics of the cannery workflow, the space between cannery housing and Aluutiq residents and how far Salvador would venture out from Larsen Bay for recreation. Reverse image searching through Google Lens or Tineye can also be helpful for geolocation but tends to be more successful in identifying extant structures, with algorithms searching more for proportional shapes and identifiable text than geographic features.
