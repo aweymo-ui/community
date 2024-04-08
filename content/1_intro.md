@@ -1,13 +1,14 @@
 ---
 title: Introduction
 nav: Intro
+gallery: true
 ---
 
 **Hello, my name is Andrew Weymouth** and I have worked with the University of Idaho Library as the [Digital Initiatives Librarian](https://www.lib.uidaho.edu/about/people/aweymouth.html) in the [Center for Digital Inquiry](https://cdil.lib.uidaho.edu/) and Learning (CDIL) department since the fall of 2023. My work generally consists of creating and maintaining our digital collections, working with CDIL fellows, helping to rethink processes and introducing new digital scholarship tools to the department
 
 -------------
 
-{% include figure.html img="17.envelope_04.jpeg" alt="Black and white photo of a person looking out onto the ocean wearing swim trunks and sitting on a large rock." caption="Person, possibly Salvador Caballero, sitting on rocky shoreline near Karluk, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." %}
+{% include gallery-figure.html img="17.envelope_04.jpeg" alt="Alt: Black and white photo of a person looking out onto the ocean wearing swim trunks and sitting on a large rock." caption="Person, possibly Salvador Caballero, sitting on rocky shoreline near Karluk, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." %}
 
 ## Alaskeros
 
