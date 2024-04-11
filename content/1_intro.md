@@ -8,7 +8,7 @@ gallery: true
 
 -------------
 
-{% include gallery-figure.html img="17.envelope_04.jpeg" alt="Alt: Black and white photo of a person looking out onto the ocean wearing swim trunks and sitting on a large rock." caption="Person, possibly Salvador Caballero, sitting on rocky shoreline near Karluk, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." title="Person, possibly Salvador Caballero, sitting on rocky shoreline near Karluk, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." %}
+{% include gallery-figure.html img="17.envelope_04.jpeg" alt="Black and white photo of a person looking out onto the ocean wearing swim trunks and sitting on a large rock." caption="Person, possibly Salvador Caballero, sitting on rocky shoreline near Karluk, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." title="Person, possibly Salvador Caballero, sitting on rocky shoreline near Karluk, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." %}
 
 ## Alaskeros
 

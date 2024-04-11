@@ -11,7 +11,7 @@ The process was riddled with dead ends in the form of thousands of school portra
 
 -------------
 
-{% include gallery-figure.html img="Dorothy Fred Newspaper-1.jpg" alt="Alt: Black and white newspaper clipping of a smiling woman helping a smiling man button their shirt collar." caption="Fred and Dorothy Cordova, courtesy of Dorothy Cordova." title="Fred and Dorothy Cordova, courtesy of Dorothy Cordova." width= "75%" %}
+{% include gallery-figure.html img="Dorothy Fred Newspaper-1.jpg" alt="Black and white newspaper clipping of a smiling woman helping a smiling man button their shirt collar." caption="Fred and Dorothy Cordova, courtesy of Dorothy Cordova." title="Fred and Dorothy Cordova, courtesy of Dorothy Cordova." width= "75%" %}
 
 The Filipino American National Historical Society, founded by Dr. Dorothy Laigo Cordova and her late husband Fred Cordova, have worked to:
 
