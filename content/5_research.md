@@ -8,7 +8,7 @@ gallery: true
 
 -------------
 
-{% include gallery-figure.html img="2.png" alt="Alt: A Google Earth rendering and archival photo showing the same geological features side by side." caption="Google Earth rendering of geological features beside one of the archival photos on Karluk, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." width= "100%" %}
+{% include gallery-figure.html img="2.png" alt="Alt: A Google Earth rendering and archival photo showing the same geological features side by side." caption="Google Earth rendering of geological features beside one of the archival photos on Karluk, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." title="Google Earth rendering of geological features beside one of the archival photos on Karluk, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." width= "100%" %}
 
 ## Geolocation
 
