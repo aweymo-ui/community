@@ -4,7 +4,7 @@ nav: The Scrapbook
 gallery: true
 ---
 
-**In addition to feeling judgmental about this practice**, I doubled down on hypocrisy by then requesting I take the entire scrapbook to digitize the remaining materials, which Dorothy was gracious enough to extend to an outsider. Over the course of the next week, I digitized around 200 photographs at 1800x1800 pixels so we could zoom into the small scale prints. Retaining these archival copies, I also created supplemental versions where I adjusted light levels to increase visual legibility.
+**While I was surprised about this practice**, I proceeded to request same thing, taking the entire scrapbook to digitize the remaining materials. Over the course of the next week, I digitized around 200 photographs at 1800x1800 pixels so we could zoom into the small scale prints. Retaining these archival copies, I also created supplemental versions where I adjusted light levels to increase visual legibility.
 
 {% include gallery-figure.html img="12_04.jpeg" alt="Black and white photo of a younger and older woman sitting together in a dark room in front of a large sheet cake that reads Happy Birthday to Agnes and Jacob." caption="Two laborers sit in front of a sheet cake gifted by the cannery workers union, demonstrating some of the difficult lighting and exposure encountered in the digitizing of this material, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." title="Two laborers sit in front of a sheet cake gifted by the cannery workers union, demonstrating some of the difficult lighting and exposure encountered in the digitizing of this material, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." width= "75%" %}
 
