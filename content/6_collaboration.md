@@ -10,11 +10,11 @@ gallery: true
 
 ## Reciprocity
 
-Another thing I would recommend as a cultural outsider collaborating with community archives is to **emphasize what you can provide to them in exchange for access to these materials**. In this case, the return was around 200 digital images of this scrapbook (that they could possibly implement as user copies, if they chose to, thereby mitigating future deterioration of the scrapbook) and a widely released article that attributes them by name and highlights their dedication to preserving cultural history. This will hopefully demonstrate continued service to the community and help them garner financial support, in turn, easing day to day operations. 
+Another thing I would recommend as a cultural outsider collaborating with community archives is to **emphasize what you can provide to them in exchange for access to these materials**. In this case, the return was around 200 digital images of this scrapbook (that they could possibly implement as user copies, if they chose to, thereby mitigating future deterioration of the scrapbook) and an article that attributes them by name and highlights their dedication to preserving cultural history, which they can point towards during future fundraising campaigns and ease day to day operations. 
 
 ## Unsolicited Advice
 
-While I was surprised that patrons could take items away from the archive, **I didn’t vocalize it and I didn’t make any unsolicited suggestions**. I’ve been on this earth as long as the archive has been operational and a White person providing unrequested advice on another community’s practices could feel condescending on many levels and could convey a message to the community archivist that the outsider might not be intending. If they would like my advice, I will let them ask me.
+While I was surprised that patrons could take items away from the archive, **I didn’t vocalize it and I didn’t make any unsolicited suggestions**. I’ve been on this earth as long as the archive has been operational and a White person providing unsolicited advice on another community’s practices could feel condescending on many levels and convey a message to the community archivist that the outsider might not be intending. If they would like my advice, I will let them ask me.
 
 {% include gallery-figure.html img="13.16_04.jpeg" alt="Two children in work clothes and rubber boots smile and hold salmon in their hands while wading in a creek." caption="Alutiiq children fishing salmon from the Karluck River, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." title="Alutiiq children fishing salmon from the Karluck River, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." width= "75%" %}
 
