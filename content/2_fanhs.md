@@ -31,4 +31,4 @@ There is no digital or publicly available catalog of the items in the archive, i
 
 Adding to this contrast, Dorothy and her son Damian didn’t _“act like archivists,”_, casually shouting at each other between rooms about where certain things were located, in a way that only family members can do. These performative aspects of what an archive space should or shouldn't sound like are particularly prone to bias because these standards have little to do with "best practice" and wade into troublesome, euro-centric concepts of the library as a controlled space.
 
-
+-------------

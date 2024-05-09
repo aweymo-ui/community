@@ -14,5 +14,8 @@ gallery: true
 
 {% include gallery-figure.html img="6.envelope_05.jpeg" alt="Black and white photo of a group of laborers sitting together agains a wood panel wall on wooden docks wearing hats and denim work clothes." caption="Laborers sitting outside Larsen Bay Cannery facilities, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." title="Laborers sitting outside Larsen Bay Cannery facilities, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." width= "75%" %}
 
+-------------
+
 **I was surprised to find things appeared much more diverse than descriptions of cannery life in the research I was reading**; White, Japanese, Filipino and Indigenous people hunched together on the docks, female workers sat together on simple wooden pathways and some people even brought their children along with them for the canning season. This was all in contrast to the majority of early cannery visual documentation produced by the United States Fish Commission, where the focus was always inside the cannery, primarily on machinery, with the occasional laborer dwarfed in the background. Only a handful of items were labeled above the photographs with place names (Larsen Bay, San Francisco, Karluk and Seattle) but I did have the photographer’s name on the cover: Salvador Caballero. 
 
+-------------
