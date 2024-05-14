@@ -16,7 +16,9 @@ Another thing I would recommend as a cultural outsider collaborating with commun
 
 While I was surprised that patrons could take items away from the archive, **I didn’t vocalize it and I didn’t make any unsolicited suggestions**. I’ve been on this earth as long as the archive has been operational and a White person providing unsolicited advice on another community’s practices could feel condescending on many levels and convey a message to the community archivist that the outsider might not be intending. If they would like my advice, I will let them ask me.
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 {% include gallery-figure.html img="13.16_04.jpeg" alt="Two children in work clothes and rubber boots smile and hold salmon in their hands while wading in a creek." caption="Alutiiq children fishing salmon from the Karluck River, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." title="Alutiiq children fishing salmon from the Karluck River, Kodiak Island, Alaska, ca. 1938. Photograph by Salvador Caballero, courtesy of FANHS." width= "75%" %}
 
@@ -24,7 +26,9 @@ While I was surprised that patrons could take items away from the archive, **I d
 
 **Though informal, these community archives serve a function that larger, more regimented institutions cannot**. Many of the personal collections of working class people housed in FAHNS would likely be deemed to not be historically significant enough to preserve. Equally, members of that community might not be comfortable donating their records to an institution they don’t trust. Additionally, if a community archive were to donate their whole collection to say, the University of Washington, it might be years before the collections are catalog, much less digitized, making these important cultural records completely inaccessible to their community. Instead, mutual support between institutional and community archives is key for reaching the shared goal of preserved cultural heritage. 
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 ## Conclusion
 
